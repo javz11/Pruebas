@@ -1,2 +1,6 @@
 en este archivo vamos a hacer los cambios para realizar los commits y demas operaciones de git
+<<<<<<< HEAD
 2) cambio hecho en mi maquina para probar commits
+=======
+//Prueba commit
+>>>>>>> origin/master
